@@ -1,1 +1,10 @@
+img {
+  width:100%;
+}
 
+body {
+  background-color: #FFD580;
+  font: calibri;
+  padding-left:10%;
+  padding-right:10%;
+}
